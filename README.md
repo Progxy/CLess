@@ -10,4 +10,5 @@ As for now it implements, the following commands:
 
 ## Use and Installation
 Clone the repo: `git clone --depth=1 https://github.com/Progxy/CLess.git`
+
 Compile it using: `make`
